@@ -45,7 +45,7 @@ and many more, including code architecture and reusability
 
 ## <a name="links">🔗 Links</a>
 
-Project link can be found [here]([[https://drive.google.com/file/d/15bGW9HBImu1p3HAYalnaj2Ig_Sn-1c-f/view](http://localhost:3001/)](http://localhost:3001/))
+Assets used in the project can be found [here](http://localhost:3001/)
 
 
 
