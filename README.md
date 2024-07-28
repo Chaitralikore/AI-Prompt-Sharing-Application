@@ -49,6 +49,7 @@ and many more, including code architecture and reusability
 steps to set up the project locally on your machine.
 
 **Prerequisites**
+Ensure that the following software is installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
