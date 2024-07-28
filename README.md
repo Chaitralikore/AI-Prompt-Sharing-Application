@@ -8,7 +8,8 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🔗 [Links](#links)
+4. 🤸 [Quick Start](#quick-start)
+5. 🔗 [Links](#links)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -43,9 +44,57 @@ Next.js application that highlights the key features of Next.js along with a com
 
 and many more, including code architecture and reusability
 
+## <a name="quick-start">🤸 Quick Start</a>
+
+steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/Chaitralikore/AI-Prompt-Sharing-Application.git
+cd AI-Prompt-Sharing-Application
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Set Up Environment Variables**
+
+Create a new file named `.env` in the root of your project and add the following content:
+
+```env
+NEXTAUTH_URL=http://localhost:3001
+NEXTAUTH_URL_INTERNAL=http://localhost:3001
+NEXTAUTH_SECRET=
+GOOGLE_ID=
+GOOGLE_CLIENT_SECRET=
+MONGODB_URI=
+```
+
+Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on these corresponding websites from [Google Cloud Console](https://console.cloud.google.com/welcome?rapt=AEjHL4MBaLLneW6OfAHf_zgms1eWZFw1wdy0_KIC4uh1nEqh2m4ojOvrXNlzJ4h7CZTkpiWgcsoHbUvS-FMdCP7WIkaVlPAeU7cnVR6Y0wJHeLMOtU6KAzA&project=promptopia-385410), [Cryptpool](https://www.cryptool.org/en/cto/openssl) (for random Auth Secret), and [MongoDB](https://www.mongodb.com/). 
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:30001](http://localhost:30001) in your browser to view the project.
+
 ## <a name="links">🔗 Links</a>
 
-Assets used in the project can be found [here](http://localhost:3001/)
+Assets used in the project can be found [here](http://localhost:3001)
 
 
 
