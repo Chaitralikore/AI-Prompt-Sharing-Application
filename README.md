@@ -91,11 +91,11 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 npm run dev
 ```
 
+## <a name="links">🔗 Links</a>
 Open [http://localhost:30001](http://localhost:30001) in your browser to view the project.
 
-## <a name="links">🔗 Links</a>
 
-Assets used in the project can be found [here](http://localhost:3001)
+
 
 
 
