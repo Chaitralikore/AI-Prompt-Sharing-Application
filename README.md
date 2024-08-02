@@ -13,7 +13,8 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Next.js application that highlights the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system utilizing a MongoDB database and implementing NextAuth authentication.
+The application allows users to interact with AI prompts through a user-friendly interface.
+-	Users can discover creative prompts suggested by the AI, CREATE their prompts using a text editor, and SHARE their prompts with others
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
