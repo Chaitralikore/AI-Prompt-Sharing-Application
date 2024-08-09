@@ -10,7 +10,7 @@
 ## <a name="introduction">🤖 Introduction</a>
 
 The application allows users to interact with AI prompts through a user-friendly interface.
--	Users can discover creative prompts suggested by the AI, CREATE their prompts using a text editor, and SHARE their prompts with others
+-	Users can discover creative prompts suggested by the AI, CREATE their prompts using a text editor, and SHARE their prompts with others.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -37,9 +37,7 @@ The application allows users to interact with AI prompts through a user-friendly
 
 ⭐ **Google Authentication using NextAuth**: Enable secure Google authentication using NextAuth, ensuring a streamlined and trustworthy login experience.
 
-⭐ **Responsive Website**: Develop a fully responsive website to ensure optimal user experience across various devices, from desktops to smartphones
-
-and many more, including code architecture and reusability.
+⭐ **Responsive Website**: Develop a fully responsive website to ensure optimal user experience across various devices, from desktops to smartphones and many more, including code architecture and reusability.
 
 
 
